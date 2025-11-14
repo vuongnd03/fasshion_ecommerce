@@ -27,7 +27,7 @@ Fashion Ecommerce is an open-source, modern e-commerce front-end application bui
 - [Contact](#contact)
 
 
-🚀 **Live Demo**: [https://fashion-ecommerce-gilt.vercel.app/](https://fashion-ecommerce-gilt.vercel.app/)
+🚀 **Live Demo**:[ [https://fashion-ecommerce-gilt.vercel.app/](https://fashion-ecommerce-gilt.vercel.app/)](https://fasshionecommerce.vercel.app/)
 
 ## Features
 
